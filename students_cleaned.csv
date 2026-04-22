@@ -1,0 +1,5 @@
+id,name,age,course,marks,grade
+1,Rose,23,Data Science,78,Pass
+2,Brian,24,Statistics,85,Pass
+3,Mary,22,Computer Science,90,Pass
+4,John,25,Mathematics,70,Fail

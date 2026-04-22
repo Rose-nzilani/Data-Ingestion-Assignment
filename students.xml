@@ -1,0 +1,19 @@
+<students>
+    <student>
+        <name>Rose</name>
+        <age>22</age>
+        <course>Data Science</course>
+    </student>
+
+    <student>
+        <name>John</name>
+        <age>23</age>
+        <course>IT</course>
+    </student>
+
+    <student>
+        <name>Ian</name>
+        <age>19</age>
+        <course>Computer Science</course>
+    </student>
+</students>
