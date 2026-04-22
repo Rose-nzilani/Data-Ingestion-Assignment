@@ -28,3 +28,4 @@ The data sources used in this project include:
 - MongoDB
 - VS Code
 ## Project structure
+Data-Ingestion-Project/ │ ├── mysql_activity/ │   ├── create_db.py │   ├── etl_mysql.py │ ├── file_formats/ │   ├── csv_ingestion.py │   ├── xml_ingestion.py │   ├── excel_ingestion.py │   ├── parquet_ingestion.py │ ├── mongodb_activity/ │   ├── mongo_ingestion.py │ ├── data/ │   ├── csv/ │   ├── xml/ │   ├── excel/ │   ├── parquet/ │ └── README.md
