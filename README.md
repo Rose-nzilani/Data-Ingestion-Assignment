@@ -9,7 +9,7 @@ The data sources used in this project include:
 - XML File Format
 - Microsoft Excel File Format
 - Apache Parquet File Format
-- MongoDB Database (NoSQL)
+- MongoDB
   ---
 
 ## Objectives of the Project
